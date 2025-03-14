@@ -1,14 +1,16 @@
 # Face-Detection
 Real-Time Age, Gender, and Emotion Detection with Confidence Scores
 
-Project Description:
+
+
+### **Project Description:**  
 This project is a **real-time face analysis system** that detects **age, gender, and emotion** from video streams using **OpenCV, DeepFace, and a deep learning-based CNN model**. The application provides **live predictions with confidence scores** and **stores the results** in CSV and JSON files for future analysis.  
 
 The system supports both **USB webcams** and **IP camera streams (such as an iPhone camera)** and features a **Tkinter-based GUI** for ease of use.  
 
 ---
 
-Key Features:
+### **Key Features:**  
 
 ✅ **Real-Time Face Detection:**  
 - Uses OpenCV's `haarcascade_frontalface_default.xml` to detect faces in a live video stream.  
@@ -39,7 +41,7 @@ Key Features:
 
 ---
 
-Technologies Used:
+### **Technologies Used:**  
 - **Python** (Main Programming Language)  
 - **OpenCV** (Face Detection, Image Processing)  
 - **DeepFace** (Emotion Recognition)  
